@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CheckSamFirm</string>
+    <string name="abc_plz_connect_to_network">Please connect to Network.</string>
+    <string name="abc_for_ATnT_users_1">If you want search \"AT&amp;T\"\'s device, Please input \"USC\" or \"VZW\" in CSC Field.</string>
+    <string name="abc_for_ATnT_users_2">Because, They are using \'Their own server\'.</string>
+    <string name="abc_plz_insert_right_model_and_region">App is Relaunching self Because of following error. \nError Message : Please insert Right Model Name and Region.</string>
+    <string name="abc_model_name">Model Name</string>
+    <string name="abc_region_csc">CSC</string>
+    <string name="abc_search">Search</string>
+    <string name="abc_latest_official_fw">Latest Official Firmware</string>
+    <string name="abc_latest_test_fw">Latest Test Firmware</string>
+    <string name="abc_no_result">No Result Found.</string>
+    <string name="abc_prev_official_fw_list">Previous Official Firmware list</string>
+    <string name="abc_prev_test_fw_list">Previous Test Firmware list</string>
+</resources>

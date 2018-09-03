@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CheckSamFirm</string>
+    <string name="abc_plz_connect_to_network">인터넷에 연결해주세요.</string>
+    <string name="abc_for_ATnT_users_1">만약 검색하려는 디바이스의 CSC가 AT&amp;T 라면 CSC 입력란에 \"USC\" 또는 \"VZW\"를 입력해주세요.</string>
+    <string name="abc_for_ATnT_users_2">그들은 \'그들만의 서버\'를 사용하기 때문에, 검색이 불가능합니다.</string>
+    <string name="abc_plz_insert_right_model_and_region">앱이 다음 오류로 인해 재시작됩니다. \n에러 메세지 : 올바른 모델명와 CSC 코드를 입력해주세요.</string>
+    <string name="abc_model_name">모델명</string>
+    <string name="abc_region_csc">CSC</string>
+    <string name="abc_search">검색</string>
+    <string name="abc_latest_official_fw">최신 정식 펌웨어</string>
+    <string name="abc_latest_test_fw">최신 테스트 펌웨어</string>
+    <string name="abc_no_result">검색 결과 없음.</string>
+    <string name="abc_prev_official_fw_list">이전 정식 펌웨어 목록</string>
+    <string name="abc_prev_test_fw_list">이전 테스트 펌웨어 목록</string>
+</resources>
